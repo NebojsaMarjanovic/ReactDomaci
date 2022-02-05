@@ -1,5 +1,4 @@
 import React from 'react'
-import HarryPotterDvoranaTajni from '../img/HarryPotterDvoranaTajni.jpg'
 import { BsHeart, BsCheck2, BsCheckLg,BsEye} from "react-icons/bs";
 import { FiMoreHorizontal} from "react-icons/fi";
 import { useState } from "react";

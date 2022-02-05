@@ -1,12 +1,6 @@
 import React from 'react'
 import JedanFilm from "./JedanFilm.jsx";
-import HarryPotterDvoranaTajni from '../img/HarryPotterDvoranaTajni.jpg'
-import HarryPotterIKamenMudrosti from '../img/Harry_Potter_and_the_Philosophers_Stone.jpg'
-import HarryPotterIRelikvijeSmrti from '../img/HarryPoterIRelikvijeSmrti2.jpg'
-import HarryPotterIPolukrvniPrinc from '../img/HarryPotterIPolukrvniPrinc.jpg'
-import HarryPotterIZatvorenik from '../img/Harry_Potter_Тhe_Prisoner_of_Azkaban.jpg'
-import HarryPotterIVatreniPehar from '../img/Harry_Potter_and_the_Goblet_of_Fire.jpg'
-import GospodarPrstenova1 from '../img/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.jpg'
+
 
 function Filmovi({filmovi, povecajZaJedan}) {
 
